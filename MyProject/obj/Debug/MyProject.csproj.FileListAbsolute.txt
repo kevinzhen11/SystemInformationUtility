@@ -1,0 +1,34 @@
+E:\MyProgect程序\MyProject\obj\Debug\MyProject.frmMian.resources
+E:\MyProgect程序\MyProject\obj\Debug\MyProject.Properties.Resources.resources
+E:\MyProgect程序\MyProject\obj\Debug\MyProject.csproj.GenerateResource.cache
+E:\MyProgect程序\MyProject\obj\Debug\MyProject.csproj.CoreCompileInputs.cache
+E:\MyProgect程序\MyProject\bin\Debug\MyProject.exe.config
+E:\MyProgect程序\MyProject\bin\Debug\MyProject.exe
+E:\MyProgect程序\MyProject\bin\Debug\MyProject.pdb
+E:\MyProgect程序\MyProject\obj\Debug\MyProject.exe
+E:\MyProgect程序\MyProject\obj\Debug\MyProject.pdb
+E:\兼职赚外块\20190426 显示电脑硬件信息500\MyProject\bin\Debug\MyProject.exe.config
+E:\兼职赚外块\20190426 显示电脑硬件信息500\MyProject\obj\Debug\MyProject.pdb
+E:\兼职赚外块\20190426 显示电脑硬件信息500\MyProject\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+E:\兼职赚外块\20190426 显示电脑硬件信息500\MyProject\obj\Debug\MyProject.frmMian.resources
+E:\兼职赚外块\20190426 显示电脑硬件信息500\MyProject\obj\Debug\MyProject.Properties.Resources.resources
+E:\兼职赚外块\20190426 显示电脑硬件信息500\MyProject\obj\Debug\MyProject.csproj.GenerateResource.Cache
+E:\MyProject\bin\Debug\MyProject.exe.config
+E:\MyProject\bin\Debug\MyProject.exe
+E:\MyProject\bin\Debug\MyProject.pdb
+E:\MyProject\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+E:\MyProject\obj\Debug\MyProject.frmMian.resources
+E:\MyProject\obj\Debug\MyProject.Properties.Resources.resources
+E:\MyProject\obj\Debug\MyProject.csproj.GenerateResource.Cache
+E:\MyProject\obj\Debug\MyProject.exe
+E:\MyProject\obj\Debug\MyProject.pdb
+C:\Users\owner\Desktop\MyProject\bin\Debug\MyProject.exe.config
+C:\Users\owner\Desktop\MyProject\bin\Debug\MyProject.exe
+C:\Users\owner\Desktop\MyProject\bin\Debug\MyProject.pdb
+C:\Users\owner\Desktop\MyProject\obj\Debug\MyProject.csprojAssemblyReference.cache
+C:\Users\owner\Desktop\MyProject\obj\Debug\MyProject.frmMian.resources
+C:\Users\owner\Desktop\MyProject\obj\Debug\MyProject.Properties.Resources.resources
+C:\Users\owner\Desktop\MyProject\obj\Debug\MyProject.csproj.GenerateResource.cache
+C:\Users\owner\Desktop\MyProject\obj\Debug\MyProject.csproj.CoreCompileInputs.cache
+C:\Users\owner\Desktop\MyProject\obj\Debug\MyProject.exe
+C:\Users\owner\Desktop\MyProject\obj\Debug\MyProject.pdb

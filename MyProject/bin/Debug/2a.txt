@@ -1,0 +1,93 @@
+GPU:NVIDIA GeForce GTX 950M      Intel(R) HD Graphics 4600   
+HardDrive:
+Name:C:\	 Format:NTFS	Total:185351MB	Left:114328MB	Usable Percent:61.68%
+Name:D:\	 Format:NTFS	Total:256004MB	Left:80887MB	Usable Percent:31.60%
+Name:E:\	 Format:NTFS	Total:256004MB	Left:219700MB	Usable Percent:85.82%
+Name:F:\	 Format:NTFS	Total:256506MB	Left:182298MB	Usable Percent:71.07%
+
+Processor:Intel(R) Core(TM) i7-4720HQ CPU @ 2.60GHz
+OS:Microsoft Windows NT 6.1.7601 Service Pack 1
+Printers:发送至 OneNote 2010   
+Printers:Microsoft XPS Document Writer   
+Printers:Foxit Reader PDF Printer   
+Printers:Fax   
+
+NetworkAdapters:
+Description:Microsoft Virtual WiFi Miniport Adapter
+Id:{7D85FFF7-4F0F-406F-B549-C38CD818A99A}
+Name:无线网络连接 2
+NetworkInterfaceType:Wireless80211
+Speed:-1E-06M
+OperationalStatus:Down
+PhysicalAddress:12A58952EDAD
+
+Description:Bluetooth 设备(个人区域网)
+Id:{A9D0E83A-8583-4D9C-A191-908655D31D11}
+Name:Bluetooth 网络连接 2
+NetworkInterfaceType:Ethernet
+Speed:0M
+OperationalStatus:Down
+PhysicalAddress:80A58952EDAC
+
+Description:Realtek PCIe GBE Family Controller
+Id:{E0E88FB6-9EE7-4306-A3A7-9EECB0CA0F73}
+Name:本地连接
+NetworkInterfaceType:Ethernet
+Speed:-1E-06M
+OperationalStatus:Down
+PhysicalAddress:9C5C8E1E72CB
+
+Description:Qualcomm Atheros AR956x Wireless Network Adapter
+Id:{571E85A6-1361-4869-8938-15845B460787}
+Name:无线网络连接
+NetworkInterfaceType:Wireless80211
+Speed:144.4M
+OperationalStatus:Up
+PhysicalAddress:80A58952EDAD
+
+Description:VMware Virtual Ethernet Adapter for VMnet1
+Id:{6E3D8C86-4A46-48D7-801C-B1D35A744822}
+Name:VMware Network Adapter VMnet1
+NetworkInterfaceType:Ethernet
+Speed:100M
+OperationalStatus:Up
+PhysicalAddress:005056C00001
+
+Description:VMware Virtual Ethernet Adapter for VMnet8
+Id:{2E694D4E-0B81-44CA-AD3E-3FBC47E2754B}
+Name:VMware Network Adapter VMnet8
+NetworkInterfaceType:Ethernet
+Speed:100M
+OperationalStatus:Up
+PhysicalAddress:005056C00008
+
+Description:Software Loopback Interface 1
+Id:{846EE342-7039-11DE-9D20-806E6F6E6963}
+Name:Loopback Pseudo-Interface 1
+NetworkInterfaceType:Loopback
+Speed:1073.741824M
+OperationalStatus:Up
+PhysicalAddress:
+
+Description:Microsoft Teredo Tunneling Adapter
+Id:{82159B72-D4DA-40EF-B486-5B7C6CF6669F}
+Name:本地连接*
+NetworkInterfaceType:Tunnel
+Speed:0.1M
+OperationalStatus:Down
+PhysicalAddress:00000000000000E0
+
+CacheMemory:L2CacheSize:1024KB	L3CacheSize:6144KB
+DeviceBus:
+PNP_BUS_0
+PCI_BUS_1
+PCI_BUS_0
+PNP_BUS_1
+PCI_BUS_4
+PCI_BUS_3
+
+DiskDrive:\\.\PHYSICALDRIVE0   
+DiskPartition:C:\   D:\   E:\   F:\   G:\   H:\
+IDEController:Intel(R) 8 Series Chipset Family SATA AHCI Controller   
+IRQResources:IRQ81   IRQ82   IRQ83   IRQ84   IRQ85   IRQ86   IRQ87   IRQ88   IRQ89   IRQ90   IRQ91   IRQ92   IRQ93   IRQ94   IRQ95   IRQ96   IRQ97   IRQ98   IRQ99   IRQ100   IRQ101   IRQ102   IRQ103   IRQ104   IRQ105   IRQ106   IRQ107   IRQ108   IRQ109   IRQ110   IRQ111   IRQ112   IRQ113   IRQ114   IRQ115   IRQ116   IRQ117   IRQ118   IRQ119   IRQ120   IRQ121   IRQ122   IRQ123   IRQ124   IRQ125   IRQ126   IRQ127   IRQ128   IRQ129   IRQ130   IRQ131   IRQ132   IRQ133   IRQ134   IRQ135   IRQ136   IRQ137   IRQ138   IRQ139   IRQ140   IRQ141   IRQ142   IRQ143   IRQ144   IRQ145   IRQ146   IRQ147   IRQ148   IRQ149   IRQ150   IRQ151   IRQ152   IRQ153   IRQ154   IRQ155   IRQ156   IRQ157   IRQ158   IRQ159   IRQ160   IRQ161   IRQ162   IRQ163   IRQ164   IRQ165   IRQ166   IRQ167   IRQ168   IRQ169   IRQ170   IRQ171   IRQ172   IRQ173   IRQ174   IRQ175   IRQ176   IRQ177   IRQ178   IRQ179   IRQ180   IRQ181   IRQ182   IRQ183   IRQ184   IRQ185   IRQ186   IRQ187   IRQ188   IRQ189   IRQ190   IRQ4294967289   IRQ4294967286   IRQ0   IRQ4294967291   IRQ1   IRQ4294967285   IRQ4294967294   IRQ8   IRQ12   IRQ4294967284   IRQ4294967293   IRQ18   IRQ4294967292   IRQ13   IRQ4294967288   IRQ22   IRQ4294967290   IRQ3   IRQ4294967287   
+VideoSettings:NVIDIA GeForce GTX 950M      Intel(R) HD Graphics 4600   
